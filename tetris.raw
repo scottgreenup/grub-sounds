@@ -1,0 +1,220 @@
+:beep frequency=658 length=125ms;
+:delay 125ms
+:beep frequency=1320 length=500ms;
+:delay 500ms
+:beep frequency=990 length=250ms;
+:delay 250ms;
+:beep frequency=1056 length=250ms;
+:delay 250ms;
+:beep frequency=1188 length=250ms;
+:delay 250ms;
+:beep frequency=1320 length=125ms;
+:delay 125ms
+:beep frequency=1188 length=125ms;
+:delay 125ms
+:beep frequency=1056 length=250ms;
+:delay 250ms;
+:beep frequency=990 length=250ms;
+:delay 250ms;
+:beep frequency=880 length=500ms;
+:delay 500ms
+:beep frequency=880 length=250ms;
+:delay 250ms;
+:beep frequency=1056 length=250ms;
+:delay 250ms;
+:beep frequency=1320 length=500ms;
+:delay 500ms
+:beep frequency=1188 length=250ms;
+:delay 250ms;
+:beep frequency=1056 length=250ms;
+:delay 250ms;
+:beep frequency=990 length=750ms;
+:delay 750ms;
+:beep frequency=1056 length=250ms;
+:delay 250ms;
+:beep frequency=1188 length=500ms;
+:delay 500ms;
+:beep frequency=1320 length=500ms;
+:delay 500ms;
+:beep frequency=1056 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=1188 length=500ms;
+:delay 500ms;
+:beep frequency=1408 length=250ms;
+:delay 250ms
+:beep frequency=1760 length=500ms;
+:delay 500ms;
+:beep frequency=1584 length=250ms;
+:delay 250ms
+:beep frequency=1408 length=250ms;
+:delay 250ms
+:beep frequency=1320 length=750ms;
+:delay 750ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=1320 length=500ms;
+:delay 500ms;
+:beep frequency=1188 length=250ms;
+:delay 250ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=990 length=500ms;
+:delay 500ms;
+:beep frequency=990 length=250ms;
+:delay 250ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=1188 length=500ms;
+:delay 500ms;
+:beep frequency=1320 length=500ms;
+:delay 500ms;
+:beep frequency=1056 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=1320 length=500ms;
+:delay 500ms;
+:beep frequency=990 length=250ms;
+:delay 250ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=1188 length=250ms;
+:delay 250ms
+:beep frequency=1320 length=125ms;
+:delay 125ms
+:beep frequency=1188 length=125ms;
+:delay 125ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=990 length=250ms;
+:delay 250ms
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=250ms;
+:delay 250ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=1320 length=500ms;
+:delay 500ms;
+:beep frequency=1188 length=250ms;
+:delay 250ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=990 length=750ms;
+:delay 750ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=1188 length=500ms;
+:delay 500ms;
+:beep frequency=1320 length=500ms;
+:delay 500ms;
+:beep frequency=1056 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=1188 length=500ms;
+:delay 500ms;
+:beep frequency=1408 length=250ms;
+:delay 250ms
+:beep frequency=1760 length=500ms;
+:delay 500ms;
+:beep frequency=1584 length=250ms;
+:beep frequency=1408 length=250ms;
+:delay 250ms
+:beep frequency=1320 length=750ms;
+:delay 750ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=1320 length=500ms;
+:delay 500ms;
+:beep frequency=1188 length=250ms;
+:delay 250ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=990 length=500ms;
+:delay 500ms;
+:beep frequency=990 length=250ms;
+:delay 250ms
+:beep frequency=1056 length=250ms;
+:delay 250ms
+:beep frequency=1188 length=500ms;
+:delay 500ms;
+:beep frequency=1320 length=500ms;
+:delay 500ms;
+:beep frequency=1056 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=500ms;
+:delay 500ms;
+:beep frequency=660 length=1000ms;
+:delay 1000ms
+:beep frequency=528 length=1000ms;
+:delay 1000ms
+:beep frequency=594 length=1000ms;
+:delay 1000ms
+:beep frequency=495 length=1000ms;
+:delay 1000ms
+:beep frequency=528 length=1000ms;
+:delay 1000ms
+:beep frequency=440 length=1000ms;
+:delay 1000ms
+:beep frequency=419 length=1000ms;
+:delay 1000ms
+:beep frequency=495 length=1000ms;
+:delay 1000ms
+:beep frequency=660 length=1000ms;
+:delay 1000ms
+:beep frequency=528 length=1000ms;
+:delay 1000ms
+:beep frequency=594 length=1000ms;
+:delay 1000ms
+:beep frequency=495 length=1000ms;
+:delay 1000ms
+:beep frequency=528 length=500ms;
+:delay 500ms;
+:beep frequency=660 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=1000ms;
+:delay 1000ms
+:beep frequency=838 length=2000ms;
+:delay 2000ms
+:beep frequency=660 length=1000ms;
+:delay 1000ms
+:beep frequency=528 length=1000ms;
+:delay 1000ms
+:beep frequency=594 length=1000ms;
+:delay 1000ms
+:beep frequency=495 length=1000ms;
+:delay 1000ms
+:beep frequency=528 length=1000ms;
+:delay 1000ms
+:beep frequency=440 length=1000ms;
+:delay 1000ms
+:beep frequency=419 length=1000ms;
+:delay 1000ms
+:beep frequency=495 length=1000ms;
+:delay 1000ms
+:beep frequency=660 length=1000ms;
+:delay 1000ms
+:beep frequency=528 length=1000ms;
+:delay 1000ms
+:beep frequency=594 length=1000ms;
+:delay 1000ms
+:beep frequency=495 length=1000ms;
+:delay 1000ms
+:beep frequency=528 length=500ms;
+:delay 500ms;
+:beep frequency=660 length=500ms;
+:delay 500ms;
+:beep frequency=880 length=1000ms;
+:delay 1000ms
+:beep frequency=838 length=2000ms;

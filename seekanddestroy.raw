@@ -1,0 +1,16 @@
+:beep frequency=1320 length=150ms;
+:delay 200ms;
+:beep frequency=1320 length=150ms;
+:delay 200ms;
+:beep frequency=1320 length=150ms;
+:delay 200ms;
+:beep frequency=1320 length=150ms;
+:delay 200ms;
+:beep frequency=1568 length=150ms;
+:delay 200ms;
+:beep frequency=1760 length=150ms;
+:delay 200ms;
+:beep frequency=1568 length=150ms;
+:delay 200ms;
+:beep frequency=1760 length=150ms;
+:delay 200ms;
